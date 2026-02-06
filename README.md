@@ -1,70 +1,83 @@
-# Getting Started with Create React App
+# PixelArcade — Minimal Arcade Landing Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, arcade-inspired one-page landing page built with React.  
+Designed to showcase clean layout, spacing discipline, accessibility, and performance — without over-engineering.
 
-## Available Scripts
+🔗 Live Demo: https://bittmoon.github.io/pixel-arcade  
+📦 Repository: https://github.com/bittmoon/pixel-arcade
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🧠 Project Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+PixelArcade is a fictional product landing page inspired by classic arcade aesthetics, reimagined with a clean, modern UI.  
+This project focuses on **frontend fundamentals** rather than flashy effects or heavy tooling.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Built as a portfolio project for a junior front-end developer.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ✨ Features
 
-### `npm run build`
+- One-page responsive layout
+- Minimal arcade-inspired design
+- Clean card-based sections
+- Subtle CSS-only entrance animations
+- Dark theme with restrained accent color
+- Keyboard-accessible navigation
+- Lighthouse-friendly performance & accessibility
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🛠 Tech Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- React (Create React App)
+- Functional components & hooks
+- Plain CSS (no frameworks)
+- No external UI libraries
+- GitHub Pages deployment
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## ♿ Accessibility
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Semantic HTML structure
+- Visible focus states
+- Keyboard navigable UI
+- Respects `prefers-reduced-motion`
+- Sufficient color contrast
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🚀 Performance & SEO
 
-## Learn More
+- Lightweight assets
+- No unnecessary dependencies
+- Proper heading hierarchy
+- Meta description included
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📸 Screenshots
 
-### Code Splitting
+![Hero Section](./screenshots/hero.png)
+![Features Section](./screenshots/features.png)
+![Testimonials Section](./screenshots/testimonials.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## 🧩 What This Demonstrates
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Layout & spacing discipline
+- UI restraint and visual hierarchy
+- Clean component structure
+- Attention to accessibility & performance
+- Production-ready frontend mindset
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 📬 Contact
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If you'd like to discuss this project or opportunities:
+- Portfolio: https://barbaryportfolio.netlify.app/
+- GitHub: https://github.com/bittmoon
