@@ -3,8 +3,8 @@
 A modern, arcade-inspired one-page landing page built with React.  
 Designed to showcase clean layout, spacing discipline, accessibility, and performance — without over-engineering.
 
-🔗 Live Demo: https://bittmoon.github.io/pixel-arcade  
-📦 Repository: https://github.com/bittmoon/pixel-arcade
+🔗 Live Demo: https://bittmoon.github.io/arcade-landing-page  
+📦 Repository: https://github.com/bittmoon/arcade-landing-page
 
 ---
 
@@ -60,9 +60,9 @@ Built as a portfolio project for a junior front-end developer.
 
 ## 📸 Screenshots
 
-![Hero Section](./screenshots/hero.png)
-![Features Section](./screenshots/features.png)
-![Testimonials Section](./screenshots/testimonials.png)
+![Hero Section](screenshots/hero.png)
+![Features Section](screenshots/features.png)
+![Testimonials Section](screenshots/testimonials.png)
 
 ---
 
