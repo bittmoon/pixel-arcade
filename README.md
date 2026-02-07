@@ -1,4 +1,4 @@
-# PixelArcade — Minimal Arcade Landing Page
+# Arcade-Landing-Page — Minimal Arcade Landing Page
 
 A modern, arcade-inspired one-page landing page built with React.  
 Designed to showcase clean layout, spacing discipline, accessibility, and performance — without over-engineering.
@@ -10,7 +10,7 @@ Designed to showcase clean layout, spacing discipline, accessibility, and perfor
 
 ## 🧠 Project Overview
 
-PixelArcade is a fictional product landing page inspired by classic arcade aesthetics, reimagined with a clean, modern UI.  
+Arcade-Landing-Page is a fictional product landing page inspired by classic arcade aesthetics, reimagined with a clean, modern UI.  
 This project focuses on **frontend fundamentals** rather than flashy effects or heavy tooling.
 
 Built as a portfolio project for a junior front-end developer.
